@@ -1,0 +1,21 @@
+styles
+h1 {
+    font-size: 120%;
+    color: #333366;
+}
+
+p {
+    font-style: italic;
+    font-size: 25px;
+}
+
+.popolnenie {
+    color: green;
+}
+
+.rastorzhenie {
+    color: blue;
+}
+.otstup{
+    padding-left: 60px;
+}
